@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='monkeylearn',
+    name='monkeylearn_legacy',
     version='0.3.7',
     author='MonkeyLearn',
     author_email='hello@monkeylearn.com',
